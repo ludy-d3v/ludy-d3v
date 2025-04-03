@@ -1,10 +1,10 @@
-# 👋 Oi, eu sou a Ludmilla!
+# 👋 Olá, eu sou a Ludmilla!
 
-Estudante de Engenharia de Software | 💻 Estagiária de Análise de Sistemas 
+Estudante de Engenharia de Software | Estagiária de Análise de Sistemas 
  
 ---
 
-## 💼 Sobre mim
+## 👩‍💻 Sobre mim
 
 Atualmente atuo como Estagiária de Sistemas, onde trabalho com:
 - Emissão de notas fiscais e suporte técnico a clientes
@@ -44,5 +44,5 @@ Nas horas vagas? Tô explorando novos frameworks, fazendo testes extras pra ir a
 ---
 
 📬 **Me chama pra conversar sobre tech, freelas ou só bater um papo!**  
-[[LinkedIn](#)](https://www.linkedin.com/in/ludmilla-oliveira-a234aa280/) | [Portfólio (em breve)](#)
+(https://www.linkedin.com/in/ludmilla-oliveira-a234aa280/) | [Portfólio (em breve)](#)
 
