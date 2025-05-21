@@ -15,7 +15,7 @@ Atuei como Estagiária de Sistemas, onde trabalhava com:
 
 Também sou freelancer, desenvolvendo sites, identidades visuais e campanhas no Google Ads. Já criei sites com HTML, CSS, JavaScript, Bootstrap, Google Sites.
 
-Nas horas vagas? Tô explorando novas tecnológias, fazendo testes extras e montando PCs (sim, sou a tech support da família também 😅).
+Nas horas vagas? Tô explorando novas tecnologias, fazendo testes extras e montando PCs (sim, sou a tech support da família também 😅).
 
 
 ---
