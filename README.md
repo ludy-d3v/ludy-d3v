@@ -7,14 +7,9 @@
 ## 👩‍💻 Sobre mim 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Sou estudante de Tecnologia da Informação, com foco em desenvolvimento web e back-end. Estudo linguagens como JavaScript, Python e PHP, além de ferramentas como HTML, CSS, Bootstrap e MySQL.
 
-Atuei como Estagiária de Sistemas, onde trabalhava com:
-- Emissão de notas fiscais e suporte técnico a clientes
-- Diagnóstico e resolução de problemas técnicos
-- Orientações sobre sistemas e softwares
-
-Também sou freelancer, desenvolvendo sites, identidades visuais e campanhas no Google Ads. Já criei sites com HTML, CSS, JavaScript, Bootstrap, Google Sites.
-
+Tenho interesse por projetos práticos, desafios técnicos e aprofundamento em arquitetura web. Estou sempre em busca de novos aprendizados, explorando tecnologias e aplicando-as em projetos próprios.
 Nas horas vagas? Tô explorando novas tecnologias, fazendo testes extras e montando PCs (sim, sou a tech support da família também 😅).
 
 
