@@ -32,4 +32,4 @@ Sou estudante de **Engenharia de Software**, com foco em desenvolvimento **web**
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludy-d3v&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludy-d3v&layout=compact&langs_count=8&theme=github_dark"/> </p> <p align="center"> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludy-d3v&layout=compact&langs_count=8&theme=github_dark"/> </p> <p align="center"> </p>
