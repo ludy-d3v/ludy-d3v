@@ -36,4 +36,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <im
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludy-d3v&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+---
+
+## 🌟 Onde me encontrar
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ludmilla-oliveira-a234aa280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
