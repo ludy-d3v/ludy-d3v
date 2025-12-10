@@ -1,4 +1,6 @@
-<h1 align="center">Olá, eu sou a Ludmilla 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8b5cf6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Olá!+Meu+nome+é+Ludmilla+%F0%9F%91%8B;Colecionando+bugs;Sinta-se+em+casa+%F0%9F%91%80)
 
 <p align="center">Estudante de Engenharia de Software 💻 | Universidade Católica de Brasília</p>
 
@@ -17,27 +19,50 @@
 
 </br>
 
-## 🚀 Tecnologias que utilizo
+##
 
-<table align="center">
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-  </tr>
-</table>
+<div align="center">
 
----
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+  <img width="12" />
 
-## 📊 GitHub Stats
+  <!-- Django -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" height="46" alt="Django logo" />
+  <img width="12" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludy-d3v&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
+  <!-- Flask -->
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
+  <img width="12" />
+
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" height="46" alt="React logo" />
+  <img width="12" />
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="HTML logo" />
+  <img width="12" />
+
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" height="46" alt="CSS logo" />
+  <img width="12" />
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="JavaScript logo" />
+  <img width="12" />
+
+  <!-- NodeJS -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" height="46" alt="NodeJS logo" />
+  <img width="12" />
+
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+  <img width="12" />
+
+  <!-- SQL / MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+
+</div>
 
 ---
 
