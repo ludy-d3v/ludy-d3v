@@ -13,7 +13,7 @@
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de **Engenharia de Software** na **UCB**.
 - 💼 Freelancer em **desenvolvimento de sites** e **design**.
-- 🌱 Atualmente estudando **Python, Django, Flask, APIs, Banco de Dados e JS.**
+- 🌱 Atualmente estudando **Python, Django, Flask, APIs, Banco de Dados e Docker.**
 
 ---
 
