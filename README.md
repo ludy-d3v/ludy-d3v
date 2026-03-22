@@ -12,7 +12,7 @@
 
 - Estudante de **Engenharia de Software** na **UCB**.
 - Freelancer em **desenvolvimento web**.
-- 🌱 Atualmente estudando **Infra, APIs, Banco de Dados e Docker.**
+- 🌱 Atualmente estudando **Infra, PHP (Laravel) e Docker.**
 
 ---
 
