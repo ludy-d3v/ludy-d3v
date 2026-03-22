@@ -18,8 +18,6 @@
 
 </br>
 
-##
-
 <div align="center">
 
   <!-- Python -->
