@@ -10,13 +10,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
-- Estudante de **Engenharia de Software** na **UCB**.
+- **Jovem aprendiz de TI**: Desenvolvimento de projetos internos, suporte técnico e infraestrutura.
 - Freelancer em **desenvolvimento web**.
 - 🌱 Atualmente estudando **Infra, PHP (Laravel) e Docker.**
 
 ---
 
-</br>
+<br>
 
 ## 🛠️ Stack principal
 
@@ -54,6 +54,13 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
 
 </div>
+
+## 📊 GitHub stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ludy-d3v&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludy-d3v&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
