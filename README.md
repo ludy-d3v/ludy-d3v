@@ -18,6 +18,8 @@
 
 </br>
 
+## Stack principal
+
 <div align="center">
 
   <!-- Python -->
