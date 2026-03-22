@@ -18,7 +18,7 @@
 
 </br>
 
-## Stack principal
+## 🛠️ Stack principal
 
 <div align="center">
 
