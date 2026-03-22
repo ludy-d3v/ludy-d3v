@@ -11,8 +11,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
 - Estudante de **Engenharia de Software** na **UCB**.
-- Freelancer em **desenvolvimento de sites** e **design**.
-- 🌱 Atualmente estudando **Python, Django, Flask, APIs, Banco de Dados e Docker.**
+- Freelancer em **desenvolvimento web**.
+- 🌱 Atualmente estudando **Infra, APIs, Banco de Dados e Docker.**
 
 ---
 
