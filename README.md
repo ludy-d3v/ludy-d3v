@@ -12,7 +12,7 @@
 
 - **Jovem aprendiz de TI**: Desenvolvimento de projetos internos, suporte técnico e infraestrutura.
 - Freelancer em **desenvolvimento web**.
-- 🌱 Atualmente estudando **Infra, PHP (Laravel) e Docker.**
+- 🌱 Atualmente estudando **Infraestrutura, PHP (Laravel), Docker e fundamentos de Cybersecurity**.
 
 ---
 
