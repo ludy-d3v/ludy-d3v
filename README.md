@@ -32,10 +32,6 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
   <img width="12" />
 
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" height="46" alt="React logo" />
-  <img width="12" />
-
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="HTML logo" />
   <img width="12" />
@@ -46,10 +42,6 @@
 
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="JavaScript logo" />
-  <img width="12" />
-
-  <!-- NodeJS -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" height="46" alt="NodeJS logo" />
   <img width="12" />
 
   <!-- PostgreSQL -->
