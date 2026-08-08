@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
 - **Estagiária em TI**: Implantação e desenvolvimento de sistemas.
-- 🌐 Freelancer em **desenvolvimento web**.
+- Freelancer em **desenvolvimento web**.
 - ⚙️ Interesse em **Back-end, Dados e Inteligência Artificial**.
 
 ---
@@ -57,7 +57,7 @@
 
 <br>
 
-### 🌱 Explorando atualmente
+> **Explorando atualmente** — tecnologias e conceitos que estou aprofundando.
 
 <div align="center">
 
