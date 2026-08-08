@@ -34,18 +34,6 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
   <img width="12" />
 
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="HTML logo" />
-  <img width="12" />
-
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" height="46" alt="CSS logo" />
-  <img width="12" />
-
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="JavaScript logo" />
-  <img width="12" />
-
   <!-- PostgreSQL -->
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
   <img width="12" />
