@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
   <img width="12" />
 
-    <!-- HTML -->
+  <!-- HTML -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="HTML logo" />
   <img width="12" />
 
