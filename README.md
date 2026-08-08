@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
