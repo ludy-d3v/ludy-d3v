@@ -71,6 +71,9 @@
 
   <!-- Scikit-learn -->
   <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn logo" />
+  <img width="10" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" height="50" alt="n8n logo" />
 
 </div>
 
