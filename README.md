@@ -11,8 +11,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
 - **Estagiária em TI**: Implantação e desenvolvimento de sistemas.
-- Freelancer em **desenvolvimento web**.
-- 🌱 Atualmente estudando **Java, ML, ETL, Docker e fundamentos de Cybersecurity**.
+- 🌐 Freelancer em **desenvolvimento web**.
+- ⚙️ Interesse em **Back-end, Dados e Inteligência Artificial**.
 
 ---
 
@@ -27,33 +27,56 @@
   <img width="12" />
 
   <!-- Django -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" height="46" alt="Django logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
   <img width="12" />
 
   <!-- Flask -->
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
   <img width="12" />
 
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="HTML logo" />
-  <img width="12" />
-
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" height="46" alt="CSS logo" />
-  <img width="12" />
-
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="JavaScript logo" />
+  <!-- Pandas -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="60" alt="Pandas logo" />
   <img width="12" />
 
   <!-- PostgreSQL -->
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
   <img width="12" />
 
-  <!-- SQL / MySQL -->
+  <!-- MySQL -->
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+  <img width="12" />
+
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
+  <img width="12" />
+
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
 
 </div>
+
+<br>
+
+### 🌱 Explorando atualmente
+
+<div align="center">
+
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java logo" />
+  <img width="10" />
+
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker logo" />
+  <img width="10" />
+
+  <!-- Scikit-learn -->
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn logo" />
+
+</div>
+
+<p align="center">
+  Machine Learning • Cybersecurity
+</p>
 
 ## 📊 GitHub stats
 
