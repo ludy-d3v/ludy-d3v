@@ -10,9 +10,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
-- **Jovem aprendiz de TI**: Desenvolvimento de projetos internos, suporte técnico e infraestrutura.
+- **Estagiária em TI**: Implantação e desenvolvimento de sistemas.
 - Freelancer em **desenvolvimento web**.
-- 🌱 Atualmente estudando **Infraestrutura, PHP, Docker e fundamentos de Cybersecurity**.
+- 🌱 Atualmente estudando **Java, ML, ETL, Docker e fundamentos de Cybersecurity**.
 
 ---
 
