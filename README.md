@@ -12,7 +12,7 @@
 
 - **Estagiária em TI**: Implantação e desenvolvimento de sistemas.
 - Freelancer em **desenvolvimento web**.
-- ⚙️ Interesse em **Back-end,  Inteligência Artificial**.
+- ⚙️ Interesse em **Back-end, Dados e Inteligência Artificial**.
 
 ---
 
